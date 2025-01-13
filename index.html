@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css">
+        <link rel="stylesheet" href="index.css">
+        <title>Enhanced Leads Tracker</title>
+    </head>
+    <body>
+        <div class="container">
+            <input type="text" id="search-el" placeholder="Search saved links...">
+            
+            <div class="category-controls">
+                <select id="category-select"></select>
+                <button id="add-category-btn">Add Category</button>
+            </div>
+
+            <input type="text" id="input-el" placeholder="Enter URL">
+            <div class="button-group">
+                <button id="input-btn">SAVE INPUT</button>
+                <button id="tab-btn">SAVE TAB</button>
+                <button id="delete-btn">DELETE ALL</button>
+            </div>
+
+            <div class="sort-controls">
+                <button id="sort-alpha">Sort A-Z</button>
+                <button id="sort-date">Sort by Date</button>
+            </div>
+
+            <ul id="ul-el"></ul>
+        </div>
+        <script src="index.js"></script>
+    </body>
+</html>
