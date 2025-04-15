@@ -177,7 +177,7 @@ function addTag(index) {
 }
 
 // Delete functionality
-deleteBtn.addEventListener("dblclick", function() {
+deleteBtn.addEventListener("click", function() {
     if (confirm("Are you sure you want to delete all saved sites?")) {
         localStorage.clear();
         mySites = [];

@@ -1,28 +1,45 @@
 # Site Saver Chrome Extension
 
-A powerful Chrome extension for saving and organizing websites with features like:
-- Save current tab or input custom URLs
-- Organize sites with categories
-- Add tags and notes to saved sites
-- Search through saved sites
-- Sort by name or date
-- Copy URLs with one click
+A powerful Chrome extension for saving and organizing websites with advanced categorization, tagging, and search capabilities.
 
 ## Features
 - 📂 Category organization
+  - Create custom categories
+  - Filter sites by category
+  - Easy category management
 - 🏷️ Tagging system
+  - Add multiple tags per site
+  - Search by tags
+  - Flexible organization
 - 📝 Note-taking capability
+  - Add notes to saved sites
+  - Edit notes anytime
+  - Search through notes
 - 🔍 Search functionality
+  - Search across URLs, notes, and tags
+  - Real-time filtering
+  - Case-insensitive search
 - ⏱️ Timestamp tracking
+  - Track when sites were added
+  - Sort by date added
+  - Maintain site history
 - 📋 Quick copy to clipboard
-- 🔄 Sort by name or date
+  - One-click URL copying
+  - Visual feedback
+  - Convenient sharing
+- 🔄 Flexible sorting
+  - Sort by name
+  - Sort by date
+  - Maintain organization
 
 ## Installation
-1. Clone this repository
-2. Open Chrome and go to `chrome://extensions/`
-3. Enable "Developer mode"
-4. Click "Load unpacked"
-5. Select the extension directory
+1. Install from Chrome Web Store (coming soon)
+2. For development:
+   - Clone this repository
+   - Open Chrome and go to `chrome://extensions/`
+   - Enable "Developer mode"
+   - Click "Load unpacked"
+   - Select the extension directory
 
 ## Usage
 - Click the extension icon in Chrome
@@ -31,13 +48,43 @@ A powerful Chrome extension for saving and organizing websites with features lik
 - Add notes and tags to organize your sites
 - Use categories to group related sites
 - Search through your saved sites
-- Double-click "DELETE ALL" to reset
+- Sort by name or date as needed
 
-## Technologies
-- HTML
-- CSS
-- JavaScript
-- Chrome Extension API
+## Privacy
+- All data is stored locally in your browser
+- No data is collected or transmitted
+- No external services are used
+- Your bookmarks remain private
+
+## Support
+For bug reports or feature requests, please open an issue on GitHub.
+
+## Development
+- Built with vanilla JavaScript
+- Uses Chrome Extension APIs
+- Local storage for data persistence
+- Modern ES6+ features
+
+## Contributing
+1. Fork the repository
+2. Create your feature branch
+3. Commit your changes
+4. Push to the branch
+5. Create a Pull Request
 
 ## License
-MIT 
+MIT License - feel free to use and modify as needed.
+
+## Version History
+- 1.0.0: Initial release
+  - Basic site saving
+  - Category system
+  - Search functionality
+  - Sorting options
+
+## Author
+[Your Name]
+
+## Acknowledgments
+- Built as part of learning JavaScript and Chrome Extension development
+- Inspired by the need for better bookmark organization 
