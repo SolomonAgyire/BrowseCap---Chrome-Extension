@@ -83,7 +83,7 @@ MIT License - feel free to use and modify as needed.
   - Sorting options
 
 ## Author
-[Your Name]
+Solomon Agyire
 
 ## Acknowledgments
 - Built as part of learning JavaScript and Chrome Extension development
