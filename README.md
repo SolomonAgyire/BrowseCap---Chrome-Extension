@@ -85,6 +85,3 @@ MIT License - feel free to use and modify as needed.
 ## Author
 Solomon Agyire
 
-## Acknowledgments
-- Built as part of learning JavaScript and Chrome Extension development
-- Inspired by the need for better bookmark organization 
