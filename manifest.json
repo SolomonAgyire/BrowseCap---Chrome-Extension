@@ -1,22 +1,20 @@
 {
     "manifest_version": 3,
-    "version": "1.1",
-    "name": "BrowseHelper",
+    "version": "1.0",
+    "name": "BrowseCap",
     "description": "Save and organize your favorite websites with categories, tags, and notes. All data stored locally for your privacy.",
+    "icons": {
+        "48": "icon.png",
+        "128": "icon.png"
+    },
     "action": {
         "default_popup": "index.html",
         "default_icon": "icon.png"
     },
-    "icons": {
-        "16": "icon.png",
-        "32": "icon.png",
-        "48": "icon.png",
-        "128": "icon.png"
-    },
     "permissions": [
         "tabs"
     ],
-    "homepage_url": "https://github.com/YOUR_USERNAME/site-saver",
-    "author": "YOUR_NAME",
+    "homepage_url": "https://github.com/SolomonAgyire/Chrome-Extension-",
+    "author": "Solomon Agyire",
     "minimum_chrome_version": "88"
 }
