@@ -48,40 +48,10 @@ A powerful Chrome extension for saving and organizing websites with advanced cat
 - Add notes and tags to organize your sites
 - Use categories to group related sites
 - Search through your saved sites
-- Sort by name or date as needed
+- Double-click "DELETE ALL" to reset
 
-## Privacy
-- All data is stored locally in your browser
-- No data is collected or transmitted
-- No external services are used
-- Your bookmarks remain private
-
-## Support
-For bug reports or feature requests, please open an issue on GitHub.
-
-## Development
-- Built with vanilla JavaScript
-- Uses Chrome Extension APIs
-- Local storage for data persistence
-- Modern ES6+ features
-
-## Contributing
-1. Fork the repository
-2. Create your feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a Pull Request
-
-## License
-MIT License - feel free to use and modify as needed.
-
-## Version History
-- 1.0.0: Initial release
-  - Basic site saving
-  - Category system
-  - Search functionality
-  - Sorting options
-
-## Author
-Solomon Agyire
-
+## Technologies
+- HTML
+- CSS
+- JavaScript
+- Chrome Extension API
