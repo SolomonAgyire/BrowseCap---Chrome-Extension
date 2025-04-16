@@ -1,4 +1,4 @@
-# Site Saver Chrome Extension
+# BrowseCap Chrome Extension
 
 A powerful Chrome extension for saving and organizing websites with advanced categorization, tagging, and search capabilities.
 
@@ -33,7 +33,7 @@ A powerful Chrome extension for saving and organizing websites with advanced cat
   - Maintain organization
 
 ## Installation
-1. Install from Chrome Web Store (coming soon)
+1. Install from Chrome Web Store 
 2. For development:
    - Clone this repository
    - Open Chrome and go to `chrome://extensions/`
@@ -48,7 +48,7 @@ A powerful Chrome extension for saving and organizing websites with advanced cat
 - Add notes and tags to organize your sites
 - Use categories to group related sites
 - Search through your saved sites
-- Double-click "DELETE ALL" to reset
+-click "DELETE ALL" to reset
 
 ## Technologies
 - HTML

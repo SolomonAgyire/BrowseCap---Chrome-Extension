@@ -3,7 +3,7 @@
 Last updated: 04/14/2025
 
 ## Acceptance of Terms
-By installing and using the Site Saver Chrome extension, you agree to these Terms of Service.
+By installing and using the BrowseCap  Chrome extension, you agree to these Terms of Service.
 
 ## Description of Service
 Site Saver is a Chrome extension that allows users to:

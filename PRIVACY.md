@@ -1,9 +1,9 @@
 # Privacy Policy for Site Saver Extension
 
-Last updated: [Current Date]
+Last updated: 04/16/2025
 
 ## Overview
-Site Saver is committed to protecting your privacy. This Privacy Policy explains how your information is collected, used, and protected when you use our Chrome extension.
+BrowseCap is committed to protecting your privacy. This Privacy Policy explains how your information is collected, used, and protected when you use our Chrome extension.
 
 ## Data Collection and Usage
 ### What we collect:
@@ -50,7 +50,7 @@ The extension requires only minimal permissions:
 
 ## Contact
 For privacy concerns or questions, contact:
-[Your Contact Information]
+sagyire83@gmail.com
 
 ## User Rights
 You have the right to:
